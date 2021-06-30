@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software developer currently working on smart speaker apps for the BBC.
+
+I've previously spent time on data publishing systems, MPEG video multiplexing, apps for broadcast TV and financial data streaming libraries. I've dabbled in the odd website over the years as well.
+
+I like to play with different languages but I've most recently worked with NodeJS (Javascript and Typescript) and Java (Spring Boot etc.). I've also used C++, C#, Python, Go and a handfull of other languages when the interest takes me.
