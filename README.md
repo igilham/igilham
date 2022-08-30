@@ -11,5 +11,4 @@ I like to play with different languages but I've most recently worked with NodeJ
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%20green?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-%20blue?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="java" src="https://img.shields.io/badge/java%20-%20red?&style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%20green?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="alexa" src="https://img.shields.io/badge/Amazon%20Alexa-%2300CAFF?logo=amazon-alexa&logoColor=white&style=for-the-badge" />
