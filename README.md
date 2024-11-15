@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a software engineer at HelloBetter.
+I'm a software engineer at The Economist.
 
-I've previously spent time on intranet, smart speakers, data publishing systems, MPEG video multiplexing, apps for broadcast TV and financial data streaming libraries. I've dabbled in the odd website over the years as well.
+I've previously spent time on healthcare, intranet, smart speakers, data publishing systems, MPEG video multiplexing, apps for broadcast TV and financial data streaming libraries. I've dabbled in the odd website over the years as well.
 
-I like to play with different languages but I've most recently worked with NodeJS (Javascript and Typescript) and Java (Spring Boot etc.). I've also used C++, C#, Python, Go and a handfull of other languages when the interest takes me.
+I like to play with different languages but I've most recently worked with NodeJS (Javascript and Typescript) and Java. I've also used C++, C#, Python, Go and a handfull of other languages when the interest takes me.
 
 ## Expertise
 
